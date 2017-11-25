@@ -22,6 +22,8 @@ body {
 .header a {
 	text-decoration: none;
 	color: #666666;
+	line-height: 90px;
+	padding-right: 30px;
 }
 
 .header nav {
@@ -36,6 +38,7 @@ body {
 	height: 90px;
 	float: left;
 	text-align: center;
+	line-height: 90px;
 }
 
 
@@ -45,6 +48,7 @@ body {
 	border: 2px solid #dddddd;
 	width: 650px;
 	float: left;
+	margin-bottom: 20px;
 }
 
 .sidebar {
@@ -56,11 +60,15 @@ body {
 	background-color: #ffffff;
 	border: 2px solid #dddddd;
 	text-align: center;
+	line-height: 75px;
 }
 
 .footer {
 	clear: both;
 	background-color: #666666;
+	height: 85px;
+	border-top: 5px solid #4aaaa5;
+	text-align: center;
 }
 
 
