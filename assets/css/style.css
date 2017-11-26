@@ -4,24 +4,19 @@ body {
 	background-image: url("../images/wall4.png");
 }
 
-.main-content {
-	width: 960px;
-	margin: 0 auto;
-
-}
 
 .header {
 	height: 90px;
 	background-color: #ffffff;
 	border: 1px solid #cccccc;
 	font-family: 'Georgia', Times, Times New Roman, serif;
-	color: #666666;
+	color: #777777;
 	width: 960px;
 }
 
 .header a {
 	text-decoration: none;
-	color: #666666;
+	color: #777777;
 	line-height: 90px;
 	padding-right: 30px;
 }
@@ -39,6 +34,14 @@ body {
 	float: left;
 	text-align: center;
 	line-height: 90px;
+	font-size: 20px;
+}
+
+.main-content {
+	width: 960px;
+	margin: 0 auto;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
 }
 
 
@@ -49,6 +52,17 @@ body {
 	width: 650px;
 	float: left;
 	margin-bottom: 20px;
+	padding: 10px;
+}
+
+hr {
+	color: #777777;
+}
+
+.Aboutme {
+	font-size: 30px;
+	font-weight: bold;
+	color: #4aaaa5;
 }
 
 .sidebar {
@@ -60,7 +74,11 @@ body {
 	background-color: #ffffff;
 	border: 2px solid #dddddd;
 	text-align: center;
-	line-height: 75px;
+	line-height: 60px;
+	color: #4aaaa5;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 10px;
 }
 
 .footer {
@@ -69,6 +87,9 @@ body {
 	height: 85px;
 	border-top: 5px solid #4aaaa5;
 	text-align: center;
+	line-height: 85px;
+	color: #ffffff;
+	font-size: 15px;
 }
 
 
