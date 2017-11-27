@@ -61,7 +61,32 @@ body {
 
 .main-content h5 {
 	font-size: 20px;
+}
 
+.image_bio {
+	display: inline;
+}
+
+.image_bio img {
+	float: left;
+}
+
+.Bioparagraph {
+	display: inline;
+}
+
+.Bioparagraph p {
+	float: left;
+	width: 60%;
+	margin-left: 30px;
+	margin-right: 0;
+	line-height: 1.5;
+}
+
+.p2 {
+	clear: both;
+	line-height: 1.5;
+	margin-right: 0;
 }
 
 .main-container {
